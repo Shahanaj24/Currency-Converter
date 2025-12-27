@@ -41,10 +41,12 @@ https://raw.githubusercontent.com/WoXy-Sensei/currency-api/main/api/USD_EUR.json
    ```bash
    git clone https://github.com/Shahanaj24/Currency-Converter.git
    --------------------------------------------------------------
-2.Open the project folder:
+2 Open the project folder:
+```bash
 cd Currency-Converter
 -----------------------------------------------------------------
 3.Open index.html in your browser
+```bash
 OR use Live Server in VS Code.
 
 👩‍💻 Author
